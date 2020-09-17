@@ -145,7 +145,6 @@ contract ExerciseC6C {
                                     string id,
                                     uint256 sales,
                                     uint256 bonus
-
                                 )
                                 external
     {
